@@ -2,7 +2,7 @@
 
 # Original article.
 https://samsclass.info/127/proj/lbuf1.htm
-
+https://samsclass.info/127/proj/p3-lbuf1.htm
 # Notes
 
 $esp (the top of the stack)
