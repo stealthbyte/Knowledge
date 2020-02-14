@@ -1,0 +1,10 @@
+x = 'abcdefg'
+print(x[0])          # 'a'
+print(x[-1])         # 'g'
+print(x[1:2])        # 'b'
+print(x[2:])         # 'cdefg'
+print(x[:2])         # 'ab'
+print(x[-4:5])       # 'de'
+y = ['abc', 'def', 'ghi']
+print(y[1])          # 'def'
+print(y[2][0])       # 'g'

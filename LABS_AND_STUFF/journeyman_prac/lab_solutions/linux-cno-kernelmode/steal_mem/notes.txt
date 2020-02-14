@@ -1,0 +1,8 @@
+hashtable by pid
+    pid_task(pid, PIDTYPE_PID)
+    or linked list
+apply_to_page_range
+    Scans virtual memory, filling in page tables an necessary
+
+access_process_vm
+    yay

@@ -1,0 +1,14 @@
+/* List of supported headers */
+char *supported[] = {
+    "Cache-Control",
+    "Connection",
+    "Content-Length",
+    "Content-Type",
+    "Date",
+    "Host",
+    "Referer",
+    "User-Agent",
+    "Via",
+    "Warn",
+    "Debug"
+};
